@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(black, white);
+    background-repeat: no-repeat;
+    background-color: white;
+}
+
+section {
+    color: purple;
+}
+
+h1 {
+    text-shadow: 2px 2px
+}
+.item{
+    float: left;
+    margin-left: 40px;
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+}
+#menu{
+    list-style: none;
+    float: right;
+    margin-right: 25px
+}
